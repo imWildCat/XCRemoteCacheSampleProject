@@ -3,6 +3,3 @@ cache_addresses:
 mode: consumer
 primary_branch: main
 primary_repo: https://github.com/imWildCat/XCRemoteCacheSampleProject.git
-
-# xcremotecache/xcprepare integrate --input XCRemoteCacheSampleProject.xcodeproj --final-producer-target XCRemoteCacheSampleProject --mode producer
-# xcremotecache/xcprepare integrate --input XCRemoteCacheSampleProject.xcodeproj --final-producer-target XCRemoteCacheSampleProject --mode consumer
