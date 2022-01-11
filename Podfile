@@ -1,6 +1,16 @@
 # Uncomment the next line to define a global platform for your project
 platform :ios, '14.0'
 
+# plugin 'cocoapods-xcremotecache'
+
+# xcremotecache({
+#   'cache_addresses' => ['http://localhost:8080/cache/sample'], 
+#   'primary_repo' => 'https://github.com/imWildCat/XCRemoteCacheSampleProject.git',
+#   'mode' => 'producer',
+#   'final_target' => 'XCRemoteCacheSampleProject',
+#   'primary_branch' => 'main',
+# })
+
 target 'XCRemoteCacheSampleProject' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!

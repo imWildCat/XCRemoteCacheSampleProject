@@ -5,8 +5,7 @@ aws_access_key: [minioadmin_access_key]
 aws_region: eu-central-1
 aws_service: s3
 mode: producer
-final_producer_target: XCRemoteCacheSampleProject
-primary_branch: develop
+primary_branch: main
 primary_repo: https://github.com/imWildCat/XCRemoteCacheSampleProject.git
 
 # xcremotecache/xcprepare integrate --input XCRemoteCacheSampleProject.xcodeproj --mode producer
