@@ -38,3 +38,6 @@ build/
 
 # Remote cache files
 .rcinfo
+user.rcinfo
+XCRemoteCache-macOS-*.zip
+xcremotecache/
